@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+    font-size: 40px;
+    background-color: skyblue;
+}
+h2{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+label{
+    color: green;
+    font-weight: 700;
+}
+input{
+    box-shadow: 2px 2px;
+    color: #0000;
+    border-radius: 10px;
+}
